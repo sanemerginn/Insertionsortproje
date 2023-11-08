@@ -7,11 +7,13 @@
 5-  [2,16,18,22,27,6]
 6-  [2,6,16,18,22,27]
 
+
 Big-O -->  n+(n-1)+(n-2)+(n-3)+(n-4)+1=(n(n+1))/2
 Big-O = n^2
 
 Dizi sıralandıktan sonra 18 sayısı dizinin ortasında
 olduğundan average case kapsamına girer. 
+
 
 
 
